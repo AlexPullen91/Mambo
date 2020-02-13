@@ -1,0 +1,14 @@
+body, html {
+  height: 100%;
+}
+
+/* Parallax */
+  
+.parallax {
+  background-image: url("../images/mambo-3-pitches.jpg");
+  height: 100%; 
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
