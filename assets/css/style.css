@@ -73,11 +73,12 @@ ul li {
 /* Video styling */
 
 .video {
-    padding-bottom: 1rem;
+    padding-bottom: 2rem;
+    padding-top: 0.9rem;
 }
 
 .video-header {
-    padding-top: 0.9rem;
+    padding-top: 1.5rem;
     letter-spacing: 0.3rem;
 }
 
