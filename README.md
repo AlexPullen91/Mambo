@@ -71,6 +71,8 @@ The goal of this project is to attract new users to an upcoming service and to d
 
 ### Bugs
 
+* Fixed a bug where going down to mobile screen size made my newly horizontally styled nav links bunch up too close to one another and therefore very un appealing UX. Had to over write a bootsrap media query with one my own to circumnavigate the issue.
+
 ---
 
 ### Deployment
