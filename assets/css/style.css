@@ -19,16 +19,14 @@ body, html {
   background-size: cover;
 }
 
-/* Removes list bullet points from basic and pro */
-
+/* Removes list bullet points from basic and pro. */
 ul li {
     list-style-type: none;
 }
 
 
 /* Styling for the nav bar */
-/* This is to keep the social links horizontal */
-
+/* This is to keep the social links horizontal. */
 .navbar-nav-social {
     flex-direction: row;
 }
@@ -39,13 +37,13 @@ ul li {
     
 }
 
-/* This centres nav menu options when collapsed */
+/* This centres nav menu options when collapsed. */
 .nav-link {
     text-align: center;
 }
 
 /* Landing page / Home */
-/* This allows for larger font size on larger screen sizes */
+/* This allows for larger font size on larger screen sizes. */
 @media (min-width: 576px) {
 .mambo-pro {
     font-size: 6rem;
@@ -67,6 +65,7 @@ ul li {
     letter-spacing: 0.4rem;
 }
 
+/* This makes the font-size more appropriate on smaller screens. */
 @media (min-width: 576px) {
 .glorious {
     font-size: 3rem;
