@@ -124,7 +124,7 @@ div i {
 /* Price packages section */
 
 div ul li i {
-    font-size: 1rem;
+    font-size: 1.5rem;
     padding-top: 0;
     padding-bottom: 0;
 }
@@ -139,4 +139,9 @@ div ul li i {
     padding-bottom: 0.5rem;
     padding-top: 1rem;
     letter-spacing: 0.4rem;
+}
+
+.price-lists {
+    line-height: 2rem;
+    letter-spacing: 0.2rem;
 }
