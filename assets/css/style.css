@@ -19,6 +19,15 @@ body, html {
   background-size: cover;
 }
 
+.parallax-bottom {
+  background-image: url("../images/bottom-image.jpg");
+  height: 100%; 
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
 /* Removes list bullet points from basic and pro. */
 ul li {
     list-style-type: none;
