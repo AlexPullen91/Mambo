@@ -96,3 +96,26 @@ ul li {
     letter-spacing: 0.4rem;
     line-height: 2.5rem;
 }
+
+
+/* What we do section */
+
+.wwd-header {
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+    letter-spacing: 0.3rem;
+}
+
+.wwd-para {
+    font-size: 1.1rem;
+    letter-spacing: 0.2rem;
+    padding-bottom: 1rem;
+    padding-top: 1rem;
+    line-height: 2rem;
+}
+
+div i {
+    font-size: 4rem;
+    padding-top: 1rem;
+    padding-bottom: 4rem;
+}
