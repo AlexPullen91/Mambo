@@ -1,12 +1,11 @@
 @import url('https://fonts.googleapis.com/css?family=Comfortaa|Montserrat&display=swap');
 
+
+/* Parallax */
 body, html {
   height: 100%;
 }
 
-
-/* Parallax */
-  
 .parallax {
   background-image: url("../images/mambo-3-pitches.jpg");
   height: 100%; 
@@ -16,6 +15,21 @@ body, html {
   background-size: cover;
 }
 
+/* Removes list bullet points from basic and pro */
+
 ul li {
     list-style-type: none;
+}
+
+/* This is to keep the social links horizontal */
+
+.navbar-nav-social {
+    flex-direction: row;
+    
+}
+
+@media (min-width: 1px) {
+.navbar-expand-sm  .navbar-nav .nav-link {
+    padding-left: 1rem;}
+    
 }
