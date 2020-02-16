@@ -43,20 +43,13 @@ ul li {
 }
 
 /* Landing page / Home */
-/* This allows for larger font size on larger screen sizes. */
-@media (min-width: 576px) {
-.mambo-pro {
-    font-size: 6rem;
-    letter-spacing: 0.8rem;
-    }
-    
-}
 
 .mambo-pro {
     padding-top: 4.5rem;
     padding-bottom: 3rem;
     line-height: 6rem;
-    
+    font-size: 3rem;
+    letter-spacing: 0.4rem;
 }
 
 .glorious {
