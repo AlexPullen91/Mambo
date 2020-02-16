@@ -146,7 +146,7 @@ div ul li i {
     letter-spacing: 0.2rem;
 }
 
-
+/* To improve aesthetics this vertically aligns lists on small screens. */
 @media (max-width: 425px) {
 .price-lists {
     font-size: 0.8rem;
