@@ -145,3 +145,14 @@ div ul li i {
     line-height: 2rem;
     letter-spacing: 0.2rem;
 }
+
+
+@media (max-width: 425px) {
+.price-lists {
+    font-size: 0.8rem;
+    letter-spacing: 0.1rem;
+    text-align: left;
+    }
+    
+}
+
