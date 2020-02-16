@@ -21,15 +21,21 @@ ul li {
     list-style-type: none;
 }
 
+
+/* Styling for the nav bar */
 /* This is to keep the social links horizontal */
 
 .navbar-nav-social {
     flex-direction: row;
-    
+    float: right;
 }
 
 @media (min-width: 1px) {
 .navbar-expand-sm  .navbar-nav .nav-link {
     padding-left: 1rem;}
     
+}
+
+.navbar-menu {
+    text-align: center;
 }
