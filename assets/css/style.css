@@ -1,5 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Comfortaa|Montserrat&display=swap');
-
+body {
+    font-family: 'Comfortaa';
+}
 
 /* Parallax */
 body, html {
@@ -27,7 +29,6 @@ ul li {
 
 .navbar-nav-social {
     flex-direction: row;
-    float: right;
 }
 
 @media (min-width: 1px) {
@@ -36,6 +37,7 @@ ul li {
     
 }
 
-.navbar-menu {
+.nav-link {
     text-align: center;
+    font-family: 'Comfortaa';
 }
