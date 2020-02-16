@@ -156,3 +156,15 @@ div ul li i {
     
 }
 
+/* Contact section */
+
+.contact-header {
+    padding-top: 3rem;
+    padding-bottom: 2rem;
+    letter-spacing: 0.6rem;
+}
+
+.contact-sub-head {
+    padding-bottom: 0.4rem;
+    letter-spacing: 0.1rem;
+}
