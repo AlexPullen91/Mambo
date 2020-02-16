@@ -44,9 +44,18 @@ ul li {
     text-align: center;
 }
 
+/* Landing page / Home */
+/* This allows for larger font size on larger screen sizes */
 @media (min-width: 576px) {
 .mambo-pro {
-    font-size: 120px;
+    font-size: 6rem;
+    letter-spacing: 0.8rem;
     }
+    
+}
+
+.mambo-pro {
+    padding-top: 4.5rem;
+    padding-bottom: 3rem;
     
 }
