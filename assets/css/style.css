@@ -103,7 +103,7 @@ ul li {
 .wwd-header {
     padding-top: 3rem;
     padding-bottom: 3rem;
-    letter-spacing: 0.3rem;
+    letter-spacing: 0.4rem;
 }
 
 .wwd-para {
@@ -118,4 +118,25 @@ div i {
     font-size: 4rem;
     padding-top: 1rem;
     padding-bottom: 4rem;
+}
+
+
+/* Price packages section */
+
+div ul li i {
+    font-size: 1rem;
+    padding-top: 0;
+    padding-bottom: 0;
+}
+
+.price-header {
+    padding-top: 3rem;
+    padding-bottom: 2.5rem;
+    letter-spacing: 0.6rem;
+}
+
+.sub-head {
+    padding-bottom: 0.5rem;
+    padding-top: 1rem;
+    letter-spacing: 0.4rem;
 }
