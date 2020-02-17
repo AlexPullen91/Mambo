@@ -20,7 +20,7 @@ body, html {
 }
 
 .parallax-bottom {
-  background-image: url("../images/bottom-image.jpg");
+  background-image: url("../images/mambo-bottom.jpg");
   height: 100%; 
   background-attachment: fixed;
   background-position: center;
