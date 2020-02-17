@@ -19,6 +19,15 @@ body, html {
   background-size: cover;
 }
 
+.parallax2 {
+  background-image: url("../images/mambo-pitch2.jpg");
+  height: 100%; 
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
 .parallax-bottom {
   background-image: url("../images/mambo-bottom.jpg");
   height: 100%; 
