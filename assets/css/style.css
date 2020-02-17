@@ -229,3 +229,30 @@ div ul li i {
     letter-spacing: 0.1rem;
     font-size: 0.6rem;
 }
+
+.trans {
+    background-image: url("../images/mambo-bottom.jpg");
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.trans-row {
+    background-color: #12100E;
+    opacity: 0.8;
+    color: #9EBC9E;
+}
+
+.less-width {
+    padding-left: 18rem;
+    padding-right: 18rem;
+}
+
+@media (max-width: 425px) {
+.less-width {
+    padding-left: 2rem;
+    padding-right: 2rem;
+    }
+    
+}
