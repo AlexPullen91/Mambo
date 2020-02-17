@@ -63,6 +63,8 @@ The goal of this project is to attract new users to an upcoming service and to d
 
 ### Tools & Libraries
 
+* Used https://www.befunky.com/ to re-size background images
+
 ---
 
 ### Testing
