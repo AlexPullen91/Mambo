@@ -94,6 +94,11 @@ ul li {
     letter-spacing: 0.4rem;
 }
 
+.glorious-back {
+    background-color: #2B303A;
+    color: #9EBC9E;
+}
+
 .glorious {
     padding-top: 4.5rem;
     padding-bottom: 3rem;
