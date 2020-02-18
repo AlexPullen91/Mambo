@@ -90,9 +90,23 @@ ul li {
 
 /* Landing page / Home */
 
+.mambo-pro-trans {
+    background-image: url("../images/mambo-3-pitches.jpg");
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.mambo-trans-row {
+    background-color: #12100E;
+    opacity: 0.8;
+    color: #9EBC9E;
+}
+
 .mambo-pro {
-    padding-top: 4.5rem;
-    padding-bottom: 3rem;
+    padding-top: 8rem;
+    padding-bottom: 7rem;
     line-height: 6rem;
     font-size: 3rem;
     letter-spacing: 0.4rem;
