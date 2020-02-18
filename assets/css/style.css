@@ -10,7 +10,7 @@ body, html {
   height: 100%;
 }
 
-.parallax {
+.parallax1 {
   background-image: url("../images/mambo-3-pitches.jpg");
   height: 100%; 
   background-attachment: fixed;
@@ -20,15 +20,6 @@ body, html {
 }
 
 .parallax2 {
-  background-image: url("../images/mambo-pitch2.jpg");
-  height: 100%; 
-  background-attachment: fixed;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-}
-
-.parallax3 {
   background-image: url("../images/glorious-moment.jpg");
   height: 100%; 
   background-attachment: fixed;
@@ -37,16 +28,7 @@ body, html {
   background-size: cover;
 }
 
-.parallax4 {
-  background-image: url("../images/mambo-pitch4.jpg");
-  height: 100%; 
-  background-attachment: fixed;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-}
-
-.parallax5 {
+.parallax3 {
   background-image: url("../images/mambo-pitch5.jpg");
   height: 100%; 
   background-attachment: fixed;
