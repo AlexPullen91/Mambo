@@ -55,14 +55,29 @@ body, html {
 }
 
 @media (min-width: 1px) {
-.navbar-expand-sm  .navbar-nav .nav-link {
+.navbar-expand-lg  .navbar-nav .nav-link {
     padding-left: 1rem;}
+    
     
 }
 
 /* This centres nav menu options when collapsed. */
 .nav-link {
     text-align: center;
+}
+
+/* This overwrites the default bootstrap colour scheme. */
+.navbar-light .navbar-nav .nav-link i {
+    color: #2B303A;
+    font-size: 1.3rem;
+}
+
+.navbar-expand-lg .navbar-nav .nav-link {
+    font-size: 1.2rem;
+}
+
+.nav-color {
+    background-color: #9EBC9E;
 }
 
 /* Landing page / Home */
