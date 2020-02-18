@@ -244,9 +244,19 @@ div ul li i {
     color: #9EBC9E;
 }
 
+
+/* This is a temporary workaround to make the form input sections shorter  */
 .less-width {
-    padding-left: 18rem;
-    padding-right: 18rem;
+    padding-left: 20rem;
+    padding-right: 20rem;
+}
+
+@media (max-width: 768px) {
+.less-width {
+    padding-left: 12rem;
+    padding-right: 12rem;
+    }
+    
 }
 
 @media (max-width: 425px) {
