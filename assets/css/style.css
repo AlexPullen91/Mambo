@@ -122,6 +122,8 @@ ul li {
 .video {
     padding-bottom: 2rem;
     padding-top: 0.9rem;
+    background-color: #2B303A;
+    color: #9EBC9E;
 }
 
 .video-header {
