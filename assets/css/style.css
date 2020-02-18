@@ -204,10 +204,25 @@ div ul li i {
 
 /* Contact section */
 
+.contact-trans {
+    background-image: url("../images/mambo-bottom.jpg");
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.contact-trans-row {
+    background-color: #12100E;
+    opacity: 0.8;
+    color: #9EBC9E;
+}
+
 .contact-header {
-    padding-top: 3rem;
-    padding-bottom: 2rem;
     letter-spacing: 0.6rem;
+    padding-top: 2rem;
+    padding-bottom: 1rem;
+
 }
 
 .contact-sub-head {
@@ -228,20 +243,6 @@ div ul li i {
 .never {
     letter-spacing: 0.1rem;
     font-size: 0.6rem;
-}
-
-.trans {
-    background-image: url("../images/mambo-bottom.jpg");
-    background-attachment: fixed;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-}
-
-.trans-row {
-    background-color: #12100E;
-    opacity: 0.8;
-    color: #9EBC9E;
 }
 
 
