@@ -47,11 +47,6 @@ body, html {
   background-size: cover;
 }
 
-/* Removes list bullet points from basic and pro. */
-ul li {
-    list-style-type: none;
-}
-
 
 /* Styling for the nav bar */
 /* This is to keep the social links horizontal. */
@@ -171,6 +166,11 @@ div i {
 
 
 /* Price packages section */
+
+/* Removes list bullet points from basic and pro. */
+ul li {
+    list-style-type: none;
+}
 
 div ul li i {
     font-size: 1.5rem;
