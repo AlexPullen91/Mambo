@@ -134,20 +134,19 @@ body, html {
 
 /* Video styling */
 
-
 .video {
     color: #9EBC9E;
     background-color: #2B303A;
 }
 
 .video-size {
-    height: 10%;
-    width: 10%;
+    padding-top: 6rem;
     padding-bottom: 5rem;
 }
 
 .video-header {
     padding-top: 1.5rem;
+    padding-bottom: 4rem;
     letter-spacing: 0.3rem;
 }
 
