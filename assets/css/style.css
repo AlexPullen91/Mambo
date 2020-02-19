@@ -21,7 +21,7 @@ body, html {
 
 .parallax1 {
   background-image: url("../images/mambo-3-pitches.jpg");
-  height: 100%; 
+  height: 30%; 
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
@@ -30,7 +30,7 @@ body, html {
 
 .parallax2 {
   background-image: url("../images/glorious-moment.jpg");
-  height: 100%; 
+  height: 30%; 
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
@@ -39,7 +39,7 @@ body, html {
 
 .parallax3 {
   background-image: url("../images/mambo-pitch5.jpg");
-  height: 100%; 
+  height: 30%; 
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
@@ -49,7 +49,7 @@ body, html {
 
 .parallax-bottom {
   background-image: url("../images/mambo-bottom.jpg");
-  height: 100%; 
+  height: 30%; 
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
