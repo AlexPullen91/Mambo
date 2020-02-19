@@ -4,11 +4,6 @@ body {
     font-family: 'Comfortaa';
 }
 
-.container-fluid {
-    border-top: 8px solid #9EBC9E;
-    border-bottom: 8px solid #9EBC9E;
-}
-
 
 /* Parallax */
 body, html {
@@ -134,9 +129,25 @@ body, html {
 
 /* Video styling */
 
+.btn-lg {
+    padding: 1.5rem;
+    opacity: 0.9;
+    letter-spacing: 0.7rem;
+    font-size: 1.1rem;
+    background-color: #9EBC9E
+}
+
 .video {
-    color: #9EBC9E;
-    background-color: #2B303A;
+    background-image: url("../images/glorious-moment.jpg");
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.video-trans {
+    background-color: #12100E;
+    opacity: 0.9;
 }
 
 .video-size {
@@ -144,10 +155,6 @@ body, html {
     padding-bottom: 5rem;
 }
 
-.video-header {
-    padding-top: 1.5rem;
-    padding-bottom: 4rem;
-    letter-spacing: 0.3rem;
 }
 
 @media (min-width: 576px) {

@@ -104,11 +104,20 @@
 	<!--Video-->
 	<div class="container-fluid video">
 		<div class="row">
-			<div class="col video-size">
-				<h4 class="text-center video-header">Watch now</h4>
-				<div class="embed-responsive embed-responsive-16by9">
-					<iframe class="embed-responsive-item video" src="https://www.youtube.com/embed/EK_LN3XEcnw"
-						allowfullscreen></iframe>
+			<div class="col text-center video-size">
+								
+				<button type="button" class="btn text-center btn-lg btn-dark" data-toggle="modal" data-target=".bd-example-modal-lg">watch now</button>
+			
+				<div class="modal fade bd-example-modal-lg" tabindex="-1" role="dialog"
+					aria-labelledby="myLargeModalLabel" aria-hidden="true">
+					<div class="modal-dialog modal-lg">
+						<div class="modal-content">
+							<div class="embed-responsive embed-responsive-16by9">
+								<iframe class="embed-responsive-item"
+									src="https://www.youtube.com/embed/EK_LN3XEcnw" allowfullscreen></iframe>
+							</div>
+						</div>
+					</div>
 				</div>
 			</div>
 		</div>
@@ -170,12 +179,12 @@
 				<ul class="price-lists">
 					<li><i class="far fa-check-circle"></i> Standard match footage</li>
 					<li><i class="far fa-times-circle"></i> Footage edited by pros</li>
-                    <li><i class="far fa-times-circle"></i> Analytical breakdowns</li>
-                    <li><i class="far fa-times-circle"></i> Mishaps highlights</li>
-                    <li><i class="far fa-times-circle"></i> Skills highlights</li>
+					<li><i class="far fa-times-circle"></i> Analytical breakdowns</li>
+					<li><i class="far fa-times-circle"></i> Mishaps highlights</li>
+					<li><i class="far fa-times-circle"></i> Skills highlights</li>
 					<li><i class="far fa-times-circle"></i> Goal highlights</li>
 					<li><i class="far fa-times-circle"></i> Statistics</li>
-					
+
 				</ul>
 			</div>
 			<div class="col-sm">
@@ -183,12 +192,12 @@
 				<ul class="price-lists">
 					<li><i class="far fa-check-circle"></i> Standard match footage</li>
 					<li><i class="far fa-check-circle"></i> Footage edited by pros</li>
-                    <li><i class="far fa-check-circle"></i> Analytical breakdowns</li>
-                    <li><i class="far fa-check-circle"></i> Mishaps highlights</li>
-                    <li><i class="far fa-check-circle"></i> Skills highlights</li>
+					<li><i class="far fa-check-circle"></i> Analytical breakdowns</li>
+					<li><i class="far fa-check-circle"></i> Mishaps highlights</li>
+					<li><i class="far fa-check-circle"></i> Skills highlights</li>
 					<li><i class="far fa-check-circle"></i> Goal highlights</li>
 					<li><i class="far fa-check-circle"></i> Statistics</li>
-					
+
 				</ul>
 			</div>
 		</div>
@@ -201,7 +210,7 @@
 	<div class="container-fluid text-center contact-trans">
 		<div class="row contact-trans-row">
 			<div class="col">
-				    <h1 class="contact-header">Contact</h1>
+				<h1 class="contact-header">Contact</h1>
 			</div>
 		</div>
 		<div class="row pt-3 pb-5 contact-trans-row">
@@ -209,15 +218,15 @@
 				<h3 class="contact-sub-head">Interested?</h3>
 				<p class="details">Fill in your details below to receive a welcome pack with more information</p>
 				<form>
-                    <div class="form-group less-width">
+					<div class="form-group less-width">
 						<label for="exampleInputPassword1" class="form-info">Full Name</label>
 						<input type="text" class="form-control">
                     </div>
-					<div class="form-group less-width">
-						<label for="exampleInputEmail1" class="form-info">Email address</label>
-						<input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
-						<small id="emailHelp" class="text-muted never">We'll never share your email with anyone else.</small>
-					</div>
+						<div class="form-group less-width">
+							<label for="exampleInputEmail1" class="form-info">Email address</label>
+							<input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
+							<small id="emailHelp" class="text-muted never">We'll never share your email with anyone else.</small>
+						</div>
 						<button type="submit" class="btn btn-primary">Submit</button>
 				</form>
 			</div>
