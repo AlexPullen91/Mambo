@@ -38,7 +38,7 @@ body, html {
 }
 
 .parallax3 {
-  background-image: url("../images/mambo-pitch5.jpg");
+  background-image: url("../images/mamb-single-pitch.jpg");
   height: 30%; 
   background-attachment: fixed;
   background-position: center;
@@ -213,6 +213,19 @@ div i {
     padding-bottom: 4rem;
 }
 
+.wwd-trans {
+  background-image: url("../images/mamb-single-pitch.jpg"); 
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.wwd-trans-row {
+    background-color: #12100E;
+    opacity: 0.9;
+    color: #9EBC9E;
+}
 
 /* Price packages section */
 
