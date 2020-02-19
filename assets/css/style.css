@@ -254,6 +254,28 @@ div ul li i {
     
 }
 
+.card {
+    background-color: #12100E;
+}
+
+.price-trans {
+    background-image: url("../images/mambo-bottom.jpg");
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.price-trans-row {
+    background-color: #12100E;
+    opacity: 0.9;
+    color: #9EBC9E;
+}
+
+.divider {
+    background-color: #9EBC9E;
+    padding: 5rem;
+}
 
 /* Contact section */
 
