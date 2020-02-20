@@ -318,11 +318,6 @@ div ul li i {
 
 }
 
-.contact-sub-head {
-    padding-bottom: 0.4rem;
-    letter-spacing: 0.2rem;
-}
-
 .details {
     letter-spacing: 0.2rem;
     font-size: 0.7rem;
@@ -338,6 +333,10 @@ div ul li i {
     font-size: 0.6rem;
 }
 
+.contact-btn {
+    letter-spacing: 0.2rem;
+    background-color: #9EBC9E;
+}
 
 /* This is a temporary workaround to make the form input sections shorter  */
 .less-width {
