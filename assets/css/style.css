@@ -12,7 +12,7 @@ body, html {
 
 .parallax {
   background-image: url("../images/mambo-3-pitches.jpg");
-  height: 20%; 
+  height: 15%; 
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
@@ -21,7 +21,7 @@ body, html {
 
 .parallax1 {
   background-image: url("../images/mambo-3-pitches.jpg");
-  height: 30%; 
+  height: 40%; 
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
@@ -30,7 +30,7 @@ body, html {
 
 .parallax2 {
   background-image: url("../images/glorious-moment.jpg");
-  height: 30%; 
+  height: 40%; 
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
@@ -39,7 +39,7 @@ body, html {
 
 .parallax3 {
   background-image: url("../images/mamb-single-pitch.jpg");
-  height: 30%; 
+  height: 40%; 
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
@@ -74,19 +74,19 @@ body, html {
 }
 
 #fbook:hover {
-    color: silver;
+    color: whitesmoke;
 }
 
 #twitter:hover {
-    color:silver;
+    color: whitesmoke;
 }
 
 #instagram:hover {
-    color:silver;
+    color: whitesmoke;
 }
 
 #whatsapp:hover {
-    color: silver;
+    color: whitesmoke;
 }
 
 /* This centres nav menu options when collapsed. */
