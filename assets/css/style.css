@@ -301,9 +301,16 @@ div ul li i {
     color: #9EBC9E;
 }
 
+
+
 .divider {
     background-color: #9EBC9E;
     padding: 5rem;
+}
+
+.divider2 {
+    background-color: #9EBC9E;
+    padding: 2rem;
 }
 
 /* Contact section */
@@ -318,7 +325,7 @@ div ul li i {
 
 .contact-trans-row {
     background-color: #12100E;
-    opacity: 0.8;
+    opacity: 0.9;
     color: #9EBC9E;
 }
 
