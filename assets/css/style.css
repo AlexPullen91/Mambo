@@ -67,7 +67,6 @@ body, html {
 .navbar-expand-lg  .navbar-nav .nav-link {
     padding-left: 0.5rem;}
     
-    
 }
 
 .navbar-light .navbar-toggler {
@@ -256,6 +255,7 @@ div ul li i {
     line-height: 2.7rem;
     letter-spacing: 0.2rem;
 }
+
 
 /* To improve aesthetics this vertically aligns lists on small screens. */
 @media (max-width: 425px) {
