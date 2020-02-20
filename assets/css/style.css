@@ -73,6 +73,22 @@ body, html {
     border: 0;
 }
 
+#fbook:hover {
+    color: silver;
+}
+
+#twitter:hover {
+    color:silver;
+}
+
+#instagram:hover {
+    color:silver;
+}
+
+#whatsapp:hover {
+    color: silver;
+}
+
 /* This centres nav menu options when collapsed. */
 .nav-link {
     text-align: center;
