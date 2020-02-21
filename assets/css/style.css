@@ -32,49 +32,31 @@ body, html {
 }
 
 .parallax {
-  background-image: url("../images/mambo-3-pitches.jpg");
-  height: 15%; 
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
 }
 
-.parallax1 {
+.three-pitches {
   background-image: url("../images/mambo-3-pitches.jpg");
-  height: 40%; 
-  background-attachment: fixed;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
+  height: 40%;
 }
 
-.parallax2 {
+.glorious-moment {
   background-image: url("../images/glorious-moment.jpg");
   height: 40%; 
-  background-attachment: fixed;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
 }
 
-.parallax3 {
+.single-pitch {
   background-image: url("../images/mamb-single-pitch.jpg");
-  height: 40%; 
-  background-attachment: fixed;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
+  height: 40%;
 }
 
 
-.parallax-bottom {
+.mambo-bottom {
   background-image: url("../images/mambo-bottom.jpg");
-  height: 30%; 
-  background-attachment: fixed;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
+  height: 30%;
 }
 
 
