@@ -67,49 +67,24 @@ body, html {
     flex-direction: row;
 }
 
-@media (min-width: 1px) {
-.navbar-expand-lg  .navbar-nav .nav-link {
-    padding-left: 0.5rem;}
-    
-}
-
 .navbar-light .navbar-toggler {
     border: 0;
-}
-
-#fbook:hover {
-    color: whitesmoke;
-}
-
-#twitter:hover {
-    color: whitesmoke;
-}
-
-#instagram:hover {
-    color: whitesmoke;
-}
-
-#whatsapp:hover {
-    color: whitesmoke;
-}
-
-/* This centres nav menu options when collapsed. */
-.nav-link {
-    text-align: center;
-}
-
-/* This overwrites the default bootstrap colour scheme. */
-.navbar-light .navbar-nav .nav-link i {
-    color: #2B303A;
-    font-size: 1.3rem;
+    background-color: #9EBC9E;
 }
 
 .navbar-expand-lg .navbar-nav .nav-link {
-    font-size: 0.9rem;
+    font-size: 1rem;
+    color: #9EBC9E;
+    text-align: center;
+    padding-left: 0.5rem;
+}
+
+.navbar-expand-lg .navbar-nav .nav-link i{
+    font-size: 1.2rem;
 }
 
 .nav-color {
-    background-color: #9EBC9E;
+    background-color: #2B303A;
 }
 
 /* Styling for Landing page / Home */
