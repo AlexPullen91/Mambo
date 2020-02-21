@@ -104,20 +104,8 @@ body, html {
 /* Styling for "Ever wanted to hit rewind and relive those glorious moments?" */
 
 .glorious {
-    padding-top: 4.5rem;
-    padding-bottom: 3rem;
-    font-size: 2rem;
     letter-spacing: 0.4rem;
     line-height: 3.5rem;
-}
-
-/* This makes the font-size more appropriate on smaller screens. */
-@media (min-width: 576px) {
-.glorious {
-    font-size: 3rem;
-    line-height: 5rem;
-    }
-    
 }
 
 
@@ -142,8 +130,6 @@ body, html {
 /* Styling for "Get your 5-a-side squad filmed..." */
 
 .show-off {
-    padding-top: 4.5rem;
-    padding-bottom: 3rem;
     letter-spacing: 0.4rem;
     line-height: 2.5rem;
 }
