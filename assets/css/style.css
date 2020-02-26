@@ -173,6 +173,14 @@ div ul li i {
     padding-bottom: 0;
 }
 
+.green-tick {
+    color: #26AF00;
+}
+
+.red-cross {
+    color: #FF0000;
+}
+
 .price-header {
     padding-top: 3rem;
     padding-bottom: 2.5rem;
