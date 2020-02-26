@@ -112,10 +112,9 @@ body, html {
 /* Styling for video section */
 
 .btn-lg {
-    padding: 0.7rem;
     opacity: 0.9;
-    letter-spacing: 0.7rem;
-    font-size: 1.1rem;
+    letter-spacing: 0.5rem;
+    font-size: 1.2rem;
     background-color: #9EBC9E;
     color: #12100E;
 }
