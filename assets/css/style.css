@@ -116,7 +116,8 @@ body, html {
     opacity: 0.9;
     letter-spacing: 0.7rem;
     font-size: 1.1rem;
-    background-color: #9EBC9E
+    background-color: #9EBC9E;
+    color: #12100E;
 }
 
 .video {
@@ -262,6 +263,7 @@ div ul li i {
 .contact-btn {
     letter-spacing: 0.2rem;
     background-color: #9EBC9E;
+    color: #12100E;
 }
 
 /* This is a temporary workaround to make the form input sections shorter  */
