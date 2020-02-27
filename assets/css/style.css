@@ -201,11 +201,10 @@ div ul li i {
 
 
 /* To improve aesthetics this vertically aligns lists on small screens. */
-@media (max-width: 425px) {
+@media (max-width: 705px) {
 .price-lists {
     font-size: 0.8rem;
     letter-spacing: 0.1rem;
-    text-align: left;
     }
     
 }
@@ -227,7 +226,6 @@ div ul li i {
     opacity: 0.9;
     color: #9EBC9E;
 }
-
 
 /* Styling for Contact section */
 
