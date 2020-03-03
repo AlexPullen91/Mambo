@@ -16,39 +16,53 @@ body {
     padding: 5rem;
 }
 
-/* Parallax */
+.header-spacing {
+    letter-spacing: 0.6rem;
+}
+
+/* Background image classes */
 body, html {
   height: 100%;
 }
 
-.parallax {
+.bg-image-size {
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
 }
 
-.three-pitches {
-  background-image: url("../images/5-a-side-pitches.jpg");
-  height: 40%;
+.bg-height {
+    height: 40%;
 }
 
-.glorious-moment {
+.opacity {
+    opacity: 0.9;
+    background-color: #12100E;
+    color: #9EBC9E;
+}
+
+.opacity-light {
+    opacity: 0.8;
+    background-color: #12100E;
+    color: #9EBC9E;
+}
+
+.three-pitches {
+  background-image: url("../images/5-a-side-pitches.jpg");
+}
+
+.bicycle-kick {
   background-image: url("../images/mid-air-bicycle-kick.jpg");
-  height: 40%; 
 }
 
 .single-pitch {
   background-image: url("../images/single-5-aside-pitch.jpg");
-  height: 40%;
 }
 
-
-.mambo-bottom {
+.inside-pitch {
   background-image: url("../images/inside-5-aside-pitch.jpg");
-  height: 30%;
 }
-
 
 /* Styling for the nav bar */
 
@@ -80,21 +94,7 @@ body, html {
 
 /* Styling for Landing page / Home */
 
-.mambo-pro-trans {
-    background-image: url("../images/5-a-side-pitches.jpg");
-    background-attachment: fixed;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-}
-
-.mambo-trans-row {
-    background-color: #12100E;
-    opacity: 0.8;
-    color: #9EBC9E;
-}
-
-.mambo-pro {
+.mambo-pro-format {
     line-height: 6rem;
     font-size: 3rem;
     letter-spacing: 0.4rem;
@@ -103,7 +103,7 @@ body, html {
 
 /* Styling for "Ever wanted to hit rewind and relive those glorious moments?" */
 
-.glorious {
+.glorious-format {
     letter-spacing: 0.4rem;
     line-height: 3.5rem;
 }
@@ -111,6 +111,7 @@ body, html {
 
 /* Styling for video section */
 
+/* This overwrites a bootstrap class */
 .btn-lg {
     opacity: 0.9;
     letter-spacing: 0.5rem;
@@ -119,17 +120,9 @@ body, html {
     color: #12100E;
 }
 
-.video {
-    background-image: url("../images/mid-air-bicycle-kick.jpg");
-    background-attachment: fixed;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-}
-
 /* Styling for "Get your 5-a-side squad filmed..." */
 
-.show-off {
+.show-off-format {
     letter-spacing: 0.4rem;
     line-height: 2.5rem;
 }
@@ -137,11 +130,7 @@ body, html {
 
 /* Styling for What we do section */
 
-.wwd-header {
-    letter-spacing: 0.4rem;
-}
-
-.wwd-para {
+.wwd-format {
     font-size: 1.1rem;
     letter-spacing: 0.2rem;
     line-height: 2rem;
@@ -149,20 +138,6 @@ body, html {
 
 div i {
     font-size: 4rem;
-}
-
-.wwd-trans {
-  background-image: url("../images/single-5-aside-pitch.jpg"); 
-  background-attachment: fixed;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-}
-
-.wwd-trans-row {
-    background-color: #12100E;
-    opacity: 0.9;
-    color: #9EBC9E;
 }
 
 /* Price packages section */
@@ -182,24 +157,15 @@ div ul li i {
     color: #FF0000;
 }
 
-.price-header--spacing {
-    letter-spacing: 0.6rem;
-}
-
-.sub-head--spacing {
-    letter-spacing: 0.4rem;
-}
-
-.price-lists--spacing {
+.price-lists-format {
     line-height: 2.7rem;
     letter-spacing: 0.2rem;
     list-style-type: none;
 }
 
-
 /* To improve aesthetics this vertically aligns lists on small screens. */
 @media (max-width: 705px) {
-.price-lists--spacing {
+.price-lists-format {
     font-size: 0.8rem;
     letter-spacing: 0.1rem;
     }
@@ -210,60 +176,13 @@ div ul li i {
     background-color: #12100E;
 }
 
-.price-trans {
-    background-image: url("../images/inside-5-aside-pitch.jpg");
-    background-attachment: fixed;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-}
-
-.price-trans-row {
-    background-color: #12100E;
-    opacity: 0.9;
-    color: #9EBC9E;
-}
-
 /* Styling for Contact section */
 
-.contact-trans {
-    background-image: url("../images/inside-5-aside-pitch.jpg");
-    background-attachment: fixed;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-}
-
-.contact-trans-row {
-    background-color: #12100E;
-    opacity: 0.9;
-    color: #9EBC9E;
-}
-
-.contact-header {
-    letter-spacing: 0.6rem;
-    padding-top: 2rem;
-    padding-bottom: 4rem;
-
-}
-
-.details {
+.spacing--tiniest {
     letter-spacing: 0.2rem;
-    font-size: 0.7rem;
 }
 
-.form-info {
-    letter-spacing: 0.1rem;
-    padding-top: 1rem;
-}
-
-.never {
-    letter-spacing: 0.1rem;
-    font-size: 0.6rem;
-}
-
-.contact-btn {
-    letter-spacing: 0.2rem;
+.contact-btn-color {
     background-color: #9EBC9E;
     color: #12100E;
 }
