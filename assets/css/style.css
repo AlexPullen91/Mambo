@@ -41,7 +41,7 @@ body, html {
     background-color: #12100E;
     color: #9EBC9E;
 }
-
+/* Less opacity for the landing page */
 .opacity-light {
     opacity: 0.8;
     background-color: #12100E;
@@ -178,13 +178,14 @@ div ul li i {
 
 /* Styling for Contact section */
 
-.spacing--tiniest {
-    letter-spacing: 0.2rem;
+.contact-spacing {
+    letter-spacing: 0.3rem;
 }
 
 .contact-btn-color {
     background-color: #9EBC9E;
     color: #12100E;
+    letter-spacing: 0.2rem;
 }
 
 /* This is a temporary workaround to make the form input sections shorter  */
