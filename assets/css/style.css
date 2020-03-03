@@ -100,7 +100,6 @@ body, html {
     letter-spacing: 0.4rem;
 }
 
-
 /* Styling for "Ever wanted to hit rewind and relive those glorious moments?" */
 
 .glorious-format {
@@ -174,15 +173,6 @@ div ul li i {
     list-style-type: none;
 }
 
-/* To improve aesthetics this vertically aligns lists on small screens. */
-@media (max-width: 705px) {
-.price-lists-format {
-    font-size: 0.8rem;
-    letter-spacing: 0.1rem;
-    }
-    
-}
-
 /* Styling for Contact section */
 
 .contact-spacing {
@@ -193,4 +183,13 @@ div ul li i {
     background-color: #9EBC9E;
     color: #12100E;
     letter-spacing: 0.2rem;
+}
+
+/* To improve aesthetics this vertically aligns lists on small screens. */
+@media (max-width: 705px) {
+.price-lists-format {
+    font-size: 0.8rem;
+    letter-spacing: 0.1rem;
+    }
+    
 }
