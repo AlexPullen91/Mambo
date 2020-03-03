@@ -47,6 +47,14 @@ The goal of this project is to attract new users to an upcoming service and to d
 
 ### Design Choices
 
+I set out to have a minimalistic, sleek and modern design whilst also making use of large background images that would be directly relevant and reflective of the subject matter.
+
+* Birds eye view of green 5-a-side football pitches instantly recognisable to users.
+* Transparency applied throughout to allow images as a focal point to have continued impact.
+* Eye-catching mid air bicycle kick serves as the backdrop to video section and suitable precursor to the video that will be the main draw and exemplification of the services on offer. (Note that current video is just a placeholder)
+* Users will instantly recognise the familiar sight of green 5-a-side football pitches which feature top middle and bottom of the site. 
+* Using coolers but having a muted shade of green in mind as one of the primary colours I settled on Laurel Green #9EBC9E which is nicely complimented by Licorice #12100E and Gunmetal #2B303A to help realise the modern sleek look I was going for.
+
 ---
 
 ### Wireframes
