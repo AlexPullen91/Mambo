@@ -3,7 +3,7 @@
 /* General styling */
 
 body {
-    font-family: 'Comfortaa';
+    font-family: 'Comfortaa', Montserrat;
 }
 
 .main-colors {
@@ -149,12 +149,23 @@ div ul li i {
     padding-bottom: 0.7rem;
 }
 
+.badge {
+    font-size: 2rem;
+    color: #12100E;
+    font-family: 'Montserrat';
+    background-color:#9EBC9E;
+}
+
 .green-tick {
     color: #26AF00;
 }
 
 .red-cross {
     color: #FF0000;
+}
+
+.card-bg-color {
+    background-color: #12100E;
 }
 
 .price-lists-format {
@@ -170,10 +181,6 @@ div ul li i {
     letter-spacing: 0.1rem;
     }
     
-}
-
-.card-bg-color {
-    background-color: #12100E;
 }
 
 /* Styling for Contact section */
