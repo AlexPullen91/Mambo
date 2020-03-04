@@ -2,9 +2,7 @@
 
 Mambo is a business idea that a friend of mine has come up with and it needs a website.
 
-It will be a hobbyist's football filming service based in Manchester, England. You sign up and pay a fee for one game to be recorded. Mambo sends down a camera operator who sets up a couple of static cameras and they operate a third camera to closely follow the action. Once the game is over the footage is prepared and edited to then be sent directly to the user within 24 hours.
-
----
+It is yet to be set up but it will be a hobbyist's football filming service based in Manchester, England. The potential customer will sign up and pay a fee for one game to be recorded. Mambo sends down a camera operator who sets up a couple of static cameras and they operate a third camera to closely follow the action. Once the game is over the footage is prepared and edited to then be sent directly to the user within 24 hours.
 
 ## UX
 
@@ -50,10 +48,11 @@ The goal of this project is to attract new users to an upcoming service and to d
 I set out to have a minimalistic, sleek and modern design whilst also making use of large background images that would be directly relevant and reflective of the subject matter.
 
 * Birds eye view of green 5-a-side football pitches instantly recognisable to users.
-* Transparency applied throughout to allow images as a focal point to have continued impact.
 * Eye-catching mid air bicycle kick serves as the backdrop to video section and suitable precursor to the video that will be the main draw and exemplification of the services on offer. (Note that current video is just a placeholder)
-* Users will instantly recognise the familiar sight of green 5-a-side football pitches which feature top middle and bottom of the site. 
-* Using coolers but having a muted shade of green in mind as one of the primary colours I settled on Laurel Green #9EBC9E which is nicely complimented by Licorice #12100E and Gunmetal #2B303A to help realise the modern sleek look I was going for.
+* Transparency applied throughout to allow images as a focal point to have continued impact.
+* Green being synonymous with football I used [Coolers](https://coolors.co/) whilst having a muted shade of green in mind to decide on colour schemes. As one of the primary colours I settled on Laurel Green #9EBC9E which is nicely complimented by Licorice #12100E and Gunmetal #2B303A to help realise the modern sleek look I was going for.
+* Comfortaa is the main font family used which is well suited to large font sizes which feature throughout the page. Montserrat with a more visually appealing pound sign was preferred for the price amounts.
+* Icons are used to better represent and accentuate the descriptions of the service.
 
 ---
 
@@ -71,7 +70,7 @@ I set out to have a minimalistic, sleek and modern design whilst also making use
 
 ### Tools & Libraries
 
-* Used https://www.befunky.com/ to re-size background images
+* Used [befunky.com](https://www.befunky.com/) to re-size background images
 
 ---
 
