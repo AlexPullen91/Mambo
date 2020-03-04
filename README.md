@@ -108,9 +108,10 @@ The site has been tested physically on iPhone 10 and 11, Google Pixel and the Ga
 * [W3C Markup Validation](https://validator.w3.org/) used to validate HTML.
 * [W3C CSS validation](https://jigsaw.w3.org/css-validator/) used to validate CSS.
 
-### Bugs
+### Known Issues
 
-* Fixed a bug where going down to mobile screen size made my newly horizontally styled nav links bunch up too close to one another and therefore very un appealing UX. Had to over write a bootsrap media query with one my own to circumnavigate the issue.
+* Video continues to play after modal window is closed. Needs further investigation.
+* Background images on physical iPhone not displaying correctly as they do in dev tools. Need further investigation.
 
 ---
 
