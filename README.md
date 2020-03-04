@@ -43,7 +43,7 @@ The goal of this project is to attract new users to an upcoming service and to d
 
 ---
 
-### Design Choices
+## Design Choices
 
 I set out to have a minimalistic, sleek and modern design whilst also making use of large background images that would be directly relevant and reflective of the subject matter.
 
@@ -77,7 +77,7 @@ You can find my wireframes [here](https://github.com/AlexPullen91/Mambo/tree/mas
 
 ---
 
-### Technologies, Tools and Libraries Used
+## Technologies, Tools and Libraries Used
 
 * [HTML](https://en.wikipedia.org/wiki/HTML)
 * [CSS](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
@@ -95,7 +95,7 @@ You can find my wireframes [here](https://github.com/AlexPullen91/Mambo/tree/mas
 
 ---
 
-### Testing
+## Testing
 
 Throughtout development of this project Google Chrome developer tools was used to check the styling and layout of the page.
 
@@ -108,20 +108,17 @@ The site has been tested physically on iPhone 10 and 11, Google Pixel and the Ga
 * [W3C Markup Validation](https://validator.w3.org/) used to validate HTML.
 * [W3C CSS validation](https://jigsaw.w3.org/css-validator/) used to validate CSS.
 
-
----
-
 ### Bugs
 
 * Fixed a bug where going down to mobile screen size made my newly horizontally styled nav links bunch up too close to one another and therefore very un appealing UX. Had to over write a bootsrap media query with one my own to circumnavigate the issue.
 
 ---
 
-### Deployment
+## Deployment
 
 Mambo was developed on GitPod, using git and GitHub to host the repository.
 
-When deploying Mambo using GitHub Pages be sure to follow these steps:
+__When deploying Mambo using GitHub Pages be sure to follow these steps:__
 
 1. Open up GitHub in browser.
 2. Sign in using username and password.
@@ -133,7 +130,7 @@ When deploying Mambo using GitHub Pages be sure to follow these steps:
 8. Click to confirm my selection.
 9. Mambo should now be live on GitHub Pages.
 
-In order to run Mambo locally be sure to follow these steps whilst still on Github:
+__In order to run Mambo locally be sure to follow these steps whilst still on Github:__
 
 1. Navigate to '/AlexPullen91/Mambo'.
 2. Click the green 'Clone or Download' button.
@@ -146,4 +143,24 @@ In order to run Mambo locally be sure to follow these steps whilst still on Gith
 
 ---
 
-### Credits
+## Credits
+
+### Content
+
+All written text provided by myself and Jacob Irlam-Hughes, the owner of the business idea.
+
+### Media
+
+* Background images were sourced from [Pexels](https://www.pexels.com/) and [Unsplash](https://unsplash.com/)
+* Placeholder video taken from [YouTube](https://www.youtube.com/)
+
+### Code
+
+* Collapsible Navbar snippet from bootstrap was used and customized further.
+* Modal snippet from bootstrap was used and customized further.
+* Form snippet from bootstrap was used and customized further.
+
+### Acknowledgements
+
+* My mentor [Simen Daehlin](https://github.com/Eventyret) for advice and support on this project.
+* The Code Institute Slack community as a whole for it's endlessly helpful pool of resources.
