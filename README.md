@@ -4,9 +4,9 @@ Mambo is a business idea that a friend of mine has come up with and it needs a w
 
 It is yet to be set up but it will be a hobbyist's football filming service based in Manchester, England. The potential customer will sign up and pay a fee for one game to be recorded. Mambo sends down a camera operator who sets up a couple of static cameras and they operate a third camera to closely follow the action. Once the game is over the footage is prepared and edited to then be sent directly to the user within 24 hours.
 
+---
 ## UX
 
----
 
 ### Project Goals
 
@@ -57,6 +57,12 @@ I set out to have a minimalistic, sleek and modern design whilst also making use
 ---
 
 ### Wireframes
+
+In the planning stage of this project one of the first things I did was draw up physical wireframes on a whiteboard. I then moved onto [Balsamiq](https://balsamiq.com/) to create much more detailed wireframes for mobile, tablet and desktop.
+
+As is to be expected certain elements present in the wireframes did not make it into the project itself but may yet do so further down the line.
+
+You can find my wireframes [here]().
 
 ---
 
