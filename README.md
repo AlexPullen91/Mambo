@@ -48,6 +48,7 @@ The goal of this project is to attract new users to an upcoming service and to d
 I set out to have a minimalistic, sleek and modern design whilst also making use of large background images that would be directly relevant and reflective of the subject matter.
 
 * Birds eye view of green 5-a-side football pitches instantly recognisable to users.
+* Single page scrolling style similar to parallax scrolling that reveals different background images as user scrolls down.
 * Eye-catching mid air bicycle kick serves as the backdrop to video section and suitable precursor to the video that will be the main draw and exemplification of the services on offer. (Note that current video is just a placeholder)
 * Transparency applied throughout to allow images as a focal point to have continued impact.
 * Green being synonymous with football I used [Coolers](https://coolors.co/) whilst having a muted shade of green in mind to decide on colour schemes. As one of the primary colours I settled on Laurel Green #9EBC9E which is nicely complimented by Licorice #12100E and Gunmetal #2B303A to help realise the modern sleek look I was going for.
@@ -62,11 +63,17 @@ In the planning stage of this project one of the first things I did was draw up 
 
 As is to be expected certain elements present in the wireframes did not make it into the project itself but may yet do so further down the line.
 
-You can find my wireframes [here]().
+You can find my wireframes [here](https://github.com/AlexPullen91/Mambo/tree/master/wireframes).
 
 ---
 
 ### Features
+
+* Navbar that fixes to the top of the screen at all times to enable user instant navigation around the page and access to social links. Collapses into burger menu on smaller screens.
+* Video opens up in a modal window when 'WATCH NOW' is clicked. Video is currently a placeholder and eventually supposed to be replaced with example of what the user can expect when signed up to the service.
+* What we do section briefly elaborates on what the service does.
+* Price section displays the packages on offer with detailed breakdown of what is included in each.
+* Contact section with name and email input fields
 
 ---
 
