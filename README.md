@@ -119,6 +119,31 @@ The site has been tested physically on iPhone 10 and 11, Google Pixel and the Ga
 
 ### Deployment
 
+Mambo was developed on GitPod, using git and GitHub to host the repository.
+
+When deploying Mambo using GitHub Pages be sure to follow these steps:
+
+1. Open up GitHub in browser.
+2. Sign in using username and password.
+3. Select my repositories.
+4. Navigate to '/AlexPullen91/Mambo'.
+5. In the top navigation click on 'settings'.
+6. Scroll down to the GitHub Pages area.
+7. Select 'Master Branch' from the 'Source' dropdown menu.
+8. Click to confirm my selection.
+9. Mambo should now be live on GitHub Pages.
+
+In order to run Mambo locally be sure to follow these steps whilst still on Github:
+
+1. Navigate to '/AlexPullen91/Mambo'.
+2. Click the green 'Clone or Download' button.
+3. Copy the url in the dropdown box.
+4. Using your favourite IDE open up your preferred terminal.
+5. Navigate to your desired file location.
+6. Copy the following code and input it into your terminal to clone Mambo.
+
+```git clone https://github.com/AlexPullen91/Mambo.git```
+
 ---
 
 ### Credits
