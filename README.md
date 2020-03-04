@@ -77,13 +77,20 @@ You can find my wireframes [here](https://github.com/AlexPullen91/Mambo/tree/mas
 
 ---
 
-### Technologies Used
+### Technologies, Tools and Libraries Used
 
----
-
-### Tools & Libraries
-
-* Used [befunky.com](https://www.befunky.com/) to re-size background images
+* [HTML](https://en.wikipedia.org/wiki/HTML)
+* [CSS](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
+* [Bootstrap 4](https://getbootstrap.com/) - Used for responsive mobile first design.
+* [Javascript](https://www.javascript.com/) - Used in bootstrap features i.e collapsible navbar and modal button.
+* [W3Schools](https://www.w3schools.com/) referred to numerous times throughout the project.
+* [Font Awesome](https://fontawesome.com/) for icons.
+* [Befunky](https://www.befunky.com/) to re-size background images.
+* [Tinypng](https://tinypng.com/) also used for re-sizing of images.
+* [Coolers](https://coolors.co/) for colour schemes.
+* [Google Fonts](https://fonts.google.com/) used for fonts.
+* [Github](https://github.com/) to host this project's respositories.
+* [Gitpod](https://www.gitpod.io/) IDE of choice for development.
 
 ---
 
