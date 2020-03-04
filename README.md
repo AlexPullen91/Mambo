@@ -89,12 +89,25 @@ You can find my wireframes [here](https://github.com/AlexPullen91/Mambo/tree/mas
 * [Tinypng](https://tinypng.com/) also used for re-sizing of images.
 * [Coolers](https://coolors.co/) for colour schemes.
 * [Google Fonts](https://fonts.google.com/) used for fonts.
+* [favicon.io](https://favicon.io/) used to generate favicon.
 * [Github](https://github.com/) to host this project's respositories.
 * [Gitpod](https://www.gitpod.io/) IDE of choice for development.
 
 ---
 
 ### Testing
+
+Throughtout development of this project Google Chrome developer tools was used to check the styling and layout of the page.
+
+Particular care and attention was taken to ensure the page was responsive at all screen sizes by selecting the various device models and dragging the responsive window past breakpoints.
+
+This was an extremely useful tool and was instrumental in ensuring the page responded appropriately.
+
+The site has been tested physically on iPhone 10 and 11, Google Pixel and the Galaxy S9.
+
+* [W3C Markup Validation](https://validator.w3.org/) used to validate HTML.
+* [W3C CSS validation](https://jigsaw.w3.org/css-validator/) used to validate CSS.
+
 
 ---
 
@@ -105,10 +118,6 @@ You can find my wireframes [here](https://github.com/AlexPullen91/Mambo/tree/mas
 ---
 
 ### Deployment
-
----
-
-### Closing Notes
 
 ---
 
