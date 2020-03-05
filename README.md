@@ -31,17 +31,17 @@ This project is aimed at people playing small-sided football matches in their sp
 
 #### User stories
 
-"As an unprofessional, I never see myself play football, I'd love to watch back and analyse my performances."
+*"As an unprofessional, I never see myself play football, I'd love to watch back and analyse my performances."*
 
-"As a social media user I can't show off my football skills or goals, I want to share clips on my social media."
+*"As a social media user I can't show off my football skills or goals, I want to share clips on my social media."*
 
-"As a potential user I want to find clear pricing information without having to dig for it."
+*"As a potential user I want to find clear pricing information without having to dig for it."*
 
-"As a potential user I want to see example videos that the service offers before I sign up."
+*"As a potential user I want to see example videos that the service offers before I sign up."*
 
-"As a potential user I want to know how quickly I can get videos and clips up on my social meida."
+*"As a potential user I want to know how quickly I can get videos and clips up on my social meida."*
 
-"As someone who runs a sports centre I want to see if I can get this service here."
+*"As someone who runs a sports centre I want to see if I can get this service here."*
 
 #### Site Owner Goals
 
@@ -53,14 +53,12 @@ This project is aimed at people playing small-sided football matches in their sp
 
 ## Design Choices
 
-I set out to have a minimalistic, sleek and modern design whilst also making use of large background images that would be directly relevant and reflective of the subject matter.
-
-* Birds eye view of green 5-a-side football pitches instantly recognisable to users.
-* Single page scrolling style similar to parallax scrolling that reveals different background images as user scrolls down.
-* Eye-catching mid air bicycle kick serves as the backdrop to video section and suitable precursor to the video that will be the main draw and exemplification of the services on offer. (Note that current video is just a placeholder)
-* Transparency applied throughout to allow images as a focal point to have continued impact.
-* Green being synonymous with football I used [Coolers](https://coolors.co/) whilst having a muted shade of green in mind to decide on colour schemes. As one of the primary colours I settled on Laurel Green #9EBC9E which is nicely complimented by Licorice #12100E and Gunmetal #2B303A to help realise the modern sleek look I was going for.
-* Comfortaa is the main font family used which is well suited to large font sizes which feature throughout the page. Montserrat with a more visually appealing pound sign was preferred for the price amounts.
+* **Birds eye view of green 5-a-side football pitches** instantly recognisable to users.
+* **Single page scrolling** style similar to parallax scrolling that reveals different background images as user scrolls down.
+* Eye-catching mid air bicycle kick serves as the backdrop to video section and suitable precursor to the video that will be the main draw and exemplification of the services on offer. *(Note that current video is just a placeholder)*
+* **Transparency** applied throughout to allow images as a focal point to have continued impact.
+* Green being synonymous with football I used [Coolers](https://coolors.co/) whilst having a muted shade of green in mind to decide on colour schemes. As one of the primary colours I settled on **Laurel Green** #9EBC9E which is nicely complimented by **Licorice** #12100E and **Gunmetal** #2B303A to help realise the modern sleek look I was going for.
+* **Comfortaa** is the main font family used which is well suited to large font sizes which feature throughout the page. **Montserrat** with a more visually appealing pound sign was preferred for the price amounts.
 * Icons are used to better represent and accentuate the descriptions of the service.
 
 ---
@@ -77,10 +75,10 @@ You can find my wireframes [here](https://github.com/AlexPullen91/Mambo/tree/mas
 
 ### Features
 
-* Navbar that fixes to the top of the screen at all times to enable user instant navigation around the page and access to social links. Collapses into burger menu on smaller screens.
-* Video opens up in a modal window when 'WATCH NOW' is clicked. Video is currently a placeholder and eventually supposed to be replaced with example of what the user can expect when signed up to the service.
+* Navbar that fixes to the top of the screen at all times to enable user **instant navigation** around the page and access to **social links.** Collapses into burger menu on smaller screens.
+* Video opens up in a modal window when **'WATCH NOW'** is clicked. Video is currently a placeholder and eventually supposed to be replaced with example of what the user can expect when signed up to the service.
 * What we do section briefly elaborates on what the service does.
-* Price section displays the packages on offer with detailed breakdown of what is included in each.
+* Price section displays the packages on offer with **detailed breakdown** of what is included in each.
 * Contact section with name and email input fields
 
 ---
@@ -135,22 +133,19 @@ Mambo was developed on GitPod, using git and GitHub to host the repository.
 
 __When deploying Mambo using GitHub Pages be sure to follow these steps:__
 
-1. Open up GitHub in browser.
-2. Sign in using username and password.
-3. Select my repositories.
-4. Navigate to '/AlexPullen91/Mambo'.
-5. In the top navigation click on 'settings'.
-6. Scroll down to the GitHub Pages area.
-7. Select 'Master Branch' from the 'Source' dropdown menu.
-8. Click to confirm my selection.
-9. Mambo should now be live on GitHub Pages.
+1. Navigate to '/AlexPullen91/Mambo'.
+2. In the top navigation click on 'settings'.
+3. Scroll down to the GitHub Pages area.
+4. Select 'Master Branch' from the 'Source' dropdown menu.
+5. Click to confirm my selection.
+6. Mambo should now be live on GitHub Pages.
 
 __In order to run Mambo locally be sure to follow these steps whilst still on Github:__
 
 1. Navigate to '/AlexPullen91/Mambo'.
 2. Click the green 'Clone or Download' button.
 3. Copy the url in the dropdown box.
-4. Using your favourite IDE open up your preferred terminal.
+4. Using your IDE of choice open up your preferred terminal.
 5. Navigate to your desired file location.
 6. Copy the following code and input it into your terminal to clone Mambo.
 
@@ -172,8 +167,8 @@ All written text provided by myself and [Jacob Irlam-Hughes](https://www.linkedi
 ### Code
 
 * Collapsible Navbar snippet from bootstrap was used and customized further.
-* Modal snippet from bootstrap was used and customized further.
-* Form snippet from bootstrap was used and customized further.
+* Modal snippet from bootstrap was used and adapted.
+* Form snippet from bootstrap was used and adapted.
 * [W3Schools](https://www.w3schools.com/) referred to numerous times throughout the project for reminders and recaps.
 
 ### Acknowledgements
