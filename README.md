@@ -1,8 +1,14 @@
-# Mambo
+# Mambo 
 
 Mambo is a business idea that a friend of mine has come up with and it needs a website.
 
-It is yet to be set up but it will be a hobbyist's football filming service based in Manchester, England. The potential customer will sign up and pay a fee for one game to be recorded. Mambo sends down a camera operator who sets up a couple of static cameras and they operate a third camera to closely follow the action. Once the game is over the footage is prepared and edited to then be sent directly to the user within 24 hours.
+Once it's fully set up it will be a hobbyist's **football filming service** based in Manchester, England.
+
+The potential customer will sign up and pay a fee for one game to be recorded.
+ 
+Mambo sends down a camera operator who sets up a couple of static cameras and they operate a third camera to closely follow the action.
+
+Once the game is over the footage is prepared and edited to then be sent directly to the user within 24 hours.
 
 ---
 ## UX
@@ -10,11 +16,13 @@ It is yet to be set up but it will be a hobbyist's football filming service base
 
 ### Project Goals
 
-The goal of this project is to attract new users to an upcoming service and to display examples of what they can expect if they sign up. This project is aimed at people playing small-sided football matches in their spare time. It could be anyone from teenagers to people in their 50s and onwards, although the primary user can be expected to be males somewhere in the 16-40 age bracket.
+The goal of this project is to attract new users to an upcoming service and to display examples of what they can expect if they sign up.
+
+This project is aimed at people playing small-sided football matches in their spare time. It could be anyone from teenagers to people in their 50s and onwards, although the primary user can be expected to be males somewhere in the 16-40 age bracket.
 
 #### User goals
 
-* Interact with the site on mobile, tablet and desktop.
+* Interact with the site on **mobile, tablet and desktop.**
 * Navigate around the website easily and intuitively.
 * Clear, concise information about the service.
 * Video examples of the service.
@@ -77,31 +85,27 @@ You can find my wireframes [here](https://github.com/AlexPullen91/Mambo/tree/mas
 
 ---
 
-## Technologies
+## Technologies & Languages
 
 * [HTML](https://en.wikipedia.org/wiki/HTML) to build the page.
 * [CSS](https://en.wikipedia.org/wiki/Cascading_Style_Sheets) to style the page.
 * [Javascript](https://www.javascript.com/) used in bootstrap features i.e collapsible navbar and modal button.
 * [Github](https://github.com/) to host this project's respositories.
 * [Gitpod](https://www.gitpod.io/) IDE of choice for development.
+* [Git](https://git-scm.com/) for version control
 
 ---
 
-## Tools
+## Tools & Libraries
 
+* [Bootstrap](https://getbootstrap.com/) used for responsive mobile first design.
+* [Font Awesome](https://fontawesome.com/) for icons.
+* [Google Fonts](https://fonts.google.com/) used for fonts.
 * [Befunky](https://www.befunky.com/) to re-size background images.
 * [Tinypng](https://tinypng.com/) & [TinyJPG](https://tinyjpg.com/) used for compressing images.
 * [favicon.io](https://favicon.io/) used to generate favicon.
 * [Coolers](https://coolors.co/) for colour schemes.
-
----
-
-## Libraries
-
-* [Bootstrap](https://getbootstrap.com/) used for responsive mobile first design.
-* [W3Schools](https://www.w3schools.com/) referred to numerous times throughout the project.
-* [Font Awesome](https://fontawesome.com/) for icons.
-* [Google Fonts](https://fonts.google.com/) used for fonts.
+* [Lighthouse](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk/related?hl=en) used to audit site.
 
 ---
 
@@ -170,6 +174,7 @@ All written text provided by myself and [Jacob Irlam-Hughes](https://www.linkedi
 * Collapsible Navbar snippet from bootstrap was used and customized further.
 * Modal snippet from bootstrap was used and customized further.
 * Form snippet from bootstrap was used and customized further.
+* [W3Schools](https://www.w3schools.com/) referred to numerous times throughout the project for reminders and recaps.
 
 ### Acknowledgements
 
