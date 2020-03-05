@@ -77,21 +77,31 @@ You can find my wireframes [here](https://github.com/AlexPullen91/Mambo/tree/mas
 
 ---
 
-## Technologies, Tools and Libraries Used
+## Technologies
 
-* [HTML](https://en.wikipedia.org/wiki/HTML)
-* [CSS](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
-* [Bootstrap 4](https://getbootstrap.com/) - Used for responsive mobile first design.
-* [Javascript](https://www.javascript.com/) - Used in bootstrap features i.e collapsible navbar and modal button.
-* [W3Schools](https://www.w3schools.com/) referred to numerous times throughout the project.
-* [Font Awesome](https://fontawesome.com/) for icons.
-* [Befunky](https://www.befunky.com/) to re-size background images.
-* [Tinypng](https://tinypng.com/) also used for re-sizing of images.
-* [Coolers](https://coolors.co/) for colour schemes.
-* [Google Fonts](https://fonts.google.com/) used for fonts.
-* [favicon.io](https://favicon.io/) used to generate favicon.
+* [HTML](https://en.wikipedia.org/wiki/HTML) to build the page.
+* [CSS](https://en.wikipedia.org/wiki/Cascading_Style_Sheets) to style the page.
+* [Javascript](https://www.javascript.com/) used in bootstrap features i.e collapsible navbar and modal button.
 * [Github](https://github.com/) to host this project's respositories.
 * [Gitpod](https://www.gitpod.io/) IDE of choice for development.
+
+---
+
+## Tools
+
+* [Befunky](https://www.befunky.com/) to re-size background images.
+* [Tinypng](https://tinypng.com/) & [TinyJPG](https://tinyjpg.com/) used for compressing images.
+* [favicon.io](https://favicon.io/) used to generate favicon.
+* [Coolers](https://coolors.co/) for colour schemes.
+
+---
+
+## Libraries
+
+* [Bootstrap](https://getbootstrap.com/) used for responsive mobile first design.
+* [W3Schools](https://www.w3schools.com/) referred to numerous times throughout the project.
+* [Font Awesome](https://fontawesome.com/) for icons.
+* [Google Fonts](https://fonts.google.com/) used for fonts.
 
 ---
 
@@ -148,7 +158,7 @@ __In order to run Mambo locally be sure to follow these steps whilst still on Gi
 
 ### Content
 
-All written text provided by myself and Jacob Irlam-Hughes, the owner of the business idea.
+All written text provided by myself and [Jacob Irlam-Hughes](https://www.linkedin.com/in/jacobirlamhughes/), the owner of the business idea.
 
 ### Media
 
