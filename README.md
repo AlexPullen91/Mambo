@@ -31,17 +31,17 @@ This project is aimed at people playing small-sided football matches in their sp
 
 #### User stories
 
-*"As an unprofessional, I never see myself play football, I'd love to watch back and analyse my performances."*
+*"As an unprofessional, **I never see myself play football**, I'd love to **watch back and analyse** my performances."*
 
-*"As a social media user I can't show off my football skills or goals, I want to share clips on my social media."*
+*"As a **social media user** I can't show off my football skills or goals, **I want to share clips on my social media**."*
 
-*"As a potential user I want to find clear pricing information without having to dig for it."*
+*"As a potential user I want to find **clear pricing information** without having to dig for it."*
 
-*"As a potential user I want to see example videos that the service offers before I sign up."*
+*"As a potential user **I want to see example videos** that the service offers before I sign up."*
 
-*"As a potential user I want to know how quickly I can get videos and clips up on my social meida."*
+*"As a potential user I want to know **how quickly I can get videos** and clips up on my social meida."*
 
-*"As someone who runs a sports centre I want to see if I can get this service here."*
+*"As someone who runs a sports centre I want to **see if I can get this service here**."*
 
 #### Site Owner Goals
 
@@ -55,7 +55,7 @@ This project is aimed at people playing small-sided football matches in their sp
 
 * **Birds eye view of green 5-a-side football pitches** instantly recognisable to users.
 * **Single page scrolling** style similar to parallax scrolling that reveals different background images as user scrolls down.
-* Eye-catching mid air bicycle kick serves as the backdrop to video section and suitable precursor to the video that will be the main draw and exemplification of the services on offer. *(Note that current video is just a placeholder)*
+* **Eye-catching mid air bicycle kick** serves as the backdrop to video section and suitable precursor to the video that will be the main draw and exemplification of the services on offer. *(Note that current video is just a placeholder)*
 * **Transparency** applied throughout to allow images as a focal point to have continued impact.
 * Green being synonymous with football I used [Coolers](https://coolors.co/) whilst having a muted shade of green in mind to decide on colour schemes. As one of the primary colours I settled on **Laurel Green** #9EBC9E which is nicely complimented by **Licorice** #12100E and **Gunmetal** #2B303A to help realise the modern sleek look I was going for.
 * **Comfortaa** is the main font family used which is well suited to large font sizes which feature throughout the page. **Montserrat** with a more visually appealing pound sign was preferred for the price amounts.
@@ -79,7 +79,14 @@ You can find my wireframes [here](https://github.com/AlexPullen91/Mambo/tree/mas
 * Video opens up in a modal window when **'WATCH NOW'** is clicked. Video is currently a placeholder and eventually supposed to be replaced with example of what the user can expect when signed up to the service.
 * What we do section briefly elaborates on what the service does.
 * Price section displays the packages on offer with **detailed breakdown** of what is included in each.
-* Contact section with name and email input fields
+* Contact section with **name** and **email** input fields
+
+#### Potential Future features
+
+* Membership section
+* Expanded video area and video library with extra features for members.
+* Comments and rating system under videos similar to [YouTube](https://www.youtube.com/) and [reddit](https://www.reddit.com/).
+* Dedicated direct payment section
 
 ---
 
@@ -104,6 +111,8 @@ You can find my wireframes [here](https://github.com/AlexPullen91/Mambo/tree/mas
 * [favicon.io](https://favicon.io/) used to generate favicon.
 * [Coolers](https://coolors.co/) for colour schemes.
 * [Lighthouse](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk/related?hl=en) used to audit site.
+* [W3C Markup Validation](https://validator.w3.org/) used to validate HTML.
+* [W3C CSS validation](https://jigsaw.w3.org/css-validator/) used to validate CSS.
 
 ---
 
@@ -117,8 +126,8 @@ This was an extremely useful tool and was instrumental in ensuring the page resp
 
 The site has been tested physically on iPhone 10 and 11, Google Pixel and the Galaxy S9.
 
-* [W3C Markup Validation](https://validator.w3.org/) used to validate HTML.
-* [W3C CSS validation](https://jigsaw.w3.org/css-validator/) used to validate CSS.
+* [W3C Markup Validation](https://validator.w3.org/) used to validate HTML at various stages - besides one heading suggestion there are no other issues found.
+* [W3C CSS validation](https://jigsaw.w3.org/css-validator/) used to validate CSS at various stages - currently no issues found.
 
 ### Known Issues
 
