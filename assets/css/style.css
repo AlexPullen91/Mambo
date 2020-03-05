@@ -100,6 +100,11 @@ body, html {
     letter-spacing: 0.4rem;
 }
 
+/* This keeps the transparent strip centred on the landing page */
+#viewheight {
+    height: 30vh;
+}
+
 /* Styling for "Ever wanted to hit rewind and relive those glorious moments?" */
 
 .glorious-format {
@@ -185,11 +190,27 @@ body, html {
     letter-spacing: 0.2rem;
 }
 
-/* To improve aesthetics this vertically aligns lists on small screens. */
-@media (max-width: 705px) {
+/* To improve aesthetics this keeps lists vertically aligned on smaller screens. */
+@media (max-width: 706px) {
 .price-lists-format {
     font-size: 0.8rem;
     letter-spacing: 0.1rem;
+    }
+    
+}
+
+/* This reduces the height of the top background image on smaller devices */
+@media (max-width: 506px) {
+#viewheight {
+    height:15vh;
+    }
+    
+}
+
+/* This removes the top background image altogether on the smallest devices */
+@media (max-width: 350px) {
+#viewheight {
+    height:0vh;
     }
     
 }
