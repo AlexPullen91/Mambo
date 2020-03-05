@@ -2,8 +2,10 @@
 
 /* General styling */
 
-body {
-    font-family: 'Comfortaa', Montserrat;
+
+body, html {
+  height: 100%;
+  font-family: 'Comfortaa', 'Montserrat';
 }
 
 .main-colors {
@@ -21,10 +23,6 @@ body {
 }
 
 /* Background image classes */
-body, html {
-  height: 100%;
-}
-
 .bg-image-size {
   background-attachment: fixed;
   background-position: center;
@@ -71,12 +69,14 @@ body, html {
     flex-direction: row;
 }
 
+/* This styles the hamburger icon */
 .navbar-light .navbar-toggler {
     border: 0;
     color: #9EBC9E;
     font-size: 1.8rem;
 }
 
+/* This grabs the menu links */
 .navbar-expand-lg .navbar-nav .nav-link {
     font-size: 1rem;
     color: #9EBC9E;
@@ -84,7 +84,7 @@ body, html {
     padding-left: 0.5rem;
 }
 
-.navbar-expand-lg .navbar-nav .nav-link i{
+.social-link-size {
     font-size: 1.2rem;
 }
 
@@ -135,14 +135,14 @@ body, html {
     line-height: 2rem;
 }
 
-div i {
+.wwd-icon-size {
     font-size: 4rem;
 }
 
 /* Price packages section */
 
 /* This adjusts size of ticks and crosses and some breathing space between lines*/
-div ul li i {
+.price-icon-size {
     font-size: 1.5rem;
     padding-top: 0.7rem;
     padding-bottom: 0.7rem;
