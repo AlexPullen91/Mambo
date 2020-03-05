@@ -11,6 +11,24 @@ Mambo sends down a camera operator who sets up a couple of static cameras and th
 Once the game is over the footage is prepared and edited to then be sent directly to the user within 24 hours.
 
 ---
+
+# Contents
+1. UX 
+2. Project Goals
+3. User Goals
+4. User Stories
+5. Site Owner Goals
+6. Design Choices
+7. Wireframes
+8. Features & Potential Future features
+9. Technologies & Languages
+10. Tools & Libraries
+11. Testing
+12. Issues and resolutions
+13. Deployment
+14. Credits
+---
+
 ## UX
 
 
@@ -136,9 +154,9 @@ This was an extremely useful tool and was instrumental in ensuring the page resp
 The same process of opening up the live page and meticulously clicking all links, buttons, and re-sizing of windows was utilized in the following browsers:
 
 * [Google Chrome](https://www.google.com/chrome/) - Main browser of choice for development.
-* [Microsoft Edge](https://www.microsoft.com/en-us/edge) - no issues encountered.
-* [Mozilla Firefox](https://www.mozilla.org/en-GB/firefox/new/) - Currently Mambo does not load correctly on firefox. Requires further investigation.
-* [Safari](https://www.apple.com/uk/safari/) - Currently the correct font is not loading on Safari. Requires further investigation.
+* [Microsoft Edge](https://www.microsoft.com/en-us/edge) - no issues encountered. Everything works as intended.
+* [Mozilla Firefox](https://www.mozilla.org/en-GB/firefox/new/) - Currently no issues. Everything works as intended.
+* [Safari](https://www.apple.com/uk/safari/) - Currently no issues. All working as intended.
 
 #### The site has been tested physically on a number of mobile devices including:
 * iPhone 7, 10 and 11
