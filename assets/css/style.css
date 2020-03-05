@@ -100,6 +100,12 @@ body, html {
     letter-spacing: 0.4rem;
 }
 
+.custom-btn {
+    background-color: #9EBC9E;
+    color: #12100E;
+    letter-spacing: 0.1rem;
+}
+
 /* This keeps the transparent strip centred on the landing page */
 #viewheight {
     height: 30vh;
