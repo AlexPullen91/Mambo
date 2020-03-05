@@ -81,14 +81,14 @@ You can find my wireframes [here](https://github.com/AlexPullen91/Mambo/tree/mas
 * Video opens up in a modal window when **'WATCH NOW'** is clicked. Video is currently a placeholder and eventually supposed to be replaced with example of what the user can expect when signed up to the service.
 * What we do section briefly elaborates on what the service does.
 * Price section displays the packages on offer with **detailed breakdown** of what is included in each.
-* Contact section with **name** and **email** input fields
+* Contact section with **name** and **email** input fields.
 
 #### Potential Future features
 
-* Membership section
+* Membership section.
 * Expanded video area and video library with extra features for members.
 * Comments and rating system under videos similar to [YouTube](https://www.youtube.com/) and [reddit](https://www.reddit.com/).
-* Dedicated direct payment section
+* Dedicated direct payment section.
 
 ---
 
@@ -145,10 +145,19 @@ The same process of opening up the live page and meticulously clicking all links
 * Google Pixel
 * Galaxy S9.
 
+### Issues and Resolutions
+
+* During development there was a problem with changing the color of my hamburger menu from the bootstrap nav bar snippet. Upon noticing that I was successfuly grabbing the other elements I examined this further in dev tools and realised that it was because it was actually a linked image. I removed this from the code and inserted a fully customizable font awesosme icon instead.
+* When reducing the screen size down to mobile it was noticed that my price lists were becoming too squashed and displaying incorrectly. This unwanted result was avoided by using media queries to reduce the font-size and letter spacing of the text.
+
+
 ### Known Issues
 
-* Video continues to play after modal window is closed. Needs further investigation.
-* Background images on physical iPhone not displaying correctly as they do in dev tools. Need further investigation.
+* Video continues to play after modal window is closed. This is because it requires additional JavaScript that is not present in Bootstrap to automatically stop playback as stated [here](https://getbootstrap.com/docs/4.0/components/modal/). Needs testing.
+* Background images on physical iPhone not displaying correctly as they do in dev tools. According to [this](https://stackoverflow.com/questions/22141681/css-background-images-resizing-incorrectly-on-ipad-and-iphone?rq=1) Stack Overflow post the solution is to change
+```background-attachment:fixed;```
+to
+```background-attachment:scroll```
 
 ---
 
