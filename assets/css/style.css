@@ -107,7 +107,8 @@ body, html {
     letter-spacing: 0.1rem;
 }
 
-/* This keeps the transparent strip centred on the landing page */
+/* This keeps the transparent strip roughly centred on the landing page at larger screen sizes and
+is removed altogether from smaller screen sizes with a media query at bottom of CSS file. */
 #viewheight {
     height: 30vh;
 }
@@ -153,7 +154,7 @@ body, html {
 
 /* Price packages section */
 
-/* This adjusts size of ticks and crosses and some breathing space between lines*/
+/* This adjusts size of ticks and crosses and gives some breathing space between lines*/
 .price-icon-size {
     font-size: 1.5rem;
     padding-top: 0.7rem;
