@@ -120,7 +120,7 @@ You can find my wireframes [here](https://github.com/AlexPullen91/Mambo/tree/mas
 
 ## Testing
 
-Throughtout development of this project **Google Chrome developer tools** was used to check the styling and layout of the page.
+Throughout development of this project **Google Chrome developer tools** was used to check the styling and layout of the page.
 
 Particular care and attention was taken to ensure the page was responsive at all screen sizes by selecting the various device models and dragging the responsive window past breakpoints.
 
@@ -149,7 +149,7 @@ The same process of opening up the live page and meticulously clicking all links
 
 * During development there was a problem with changing the color of my hamburger menu from the bootstrap nav bar snippet. Upon noticing that I was successfuly grabbing the other elements I examined this further in dev tools and realised that it was because it was actually a linked image. I removed this from the code and inserted a fully customizable font awesosme icon instead.
 * When reducing the screen size down to mobile it was noticed that my price lists were becoming too squashed and displaying incorrectly. This unwanted result was avoided by using media queries to reduce the font-size and letter spacing of the text.
-
+* An unwanted side effect of the bootstrap form snippet was that on larger screens the input fields span the entire width of the screen. Finding a solution to this was a rather frustrating endeavour but eventually I got something that I was satisfied with by adding a smaller bootstrap col class either side of the central content, resulting in the shorter input fields and responsive re-sizing that now achieves the desired look.
 
 ### Known Issues
 
