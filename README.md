@@ -57,7 +57,7 @@ This project is aimed at people playing small-sided football matches in their sp
 * **Single page scrolling** style similar to parallax scrolling that reveals different background images as user scrolls down.
 * **Eye-catching mid air bicycle kick** serves as the backdrop to video section and suitable precursor to the video that will be the main draw and exemplification of the services on offer. *(Note that current video is just a placeholder)*
 * **Transparency** applied throughout to allow images as a focal point to have continued impact.
-* Green being synonymous with football I used [Coolers](https://coolors.co/) whilst having a muted shade of green in mind to decide on colour schemes. As one of the primary colours I settled on **Laurel Green** #9EBC9E which is nicely complimented by **Licorice** #12100E and **Gunmetal** #2B303A to help realise the modern sleek look I was going for.
+* Green being synonymous with football I used [coolers](https://coolors.co/) whilst having a muted shade of green in mind to decide on colour schemes. As one of the primary colours I settled on **Laurel Green** #9EBC9E which is nicely complimented by **Licorice** #12100E and **Gunmetal** #2B303A to help realise the modern sleek look I was going for.
 * **Comfortaa** is the main font family used which is well suited to large font sizes which feature throughout the page. **Montserrat** with a more visually appealing pound sign was preferred for the price amounts.
 * Icons are used to better represent and accentuate the descriptions of the service.
 
@@ -65,7 +65,9 @@ This project is aimed at people playing small-sided football matches in their sp
 
 ### Wireframes
 
-In the planning stage of this project one of the first things I did was draw up physical wireframes on a whiteboard. I then moved onto [Balsamiq](https://balsamiq.com/) to create much more detailed wireframes for mobile, tablet and desktop.
+In the planning stage of this project one of the first things I did was draw up physical wireframes on a whiteboard.
+
+I then moved onto [Balsamiq](https://balsamiq.com/) to create much more detailed wireframes for **mobile, tablet and desktop.**
 
 As is to be expected certain elements present in the wireframes did not make it into the project itself but may yet do so further down the line.
 
@@ -106,10 +108,10 @@ You can find my wireframes [here](https://github.com/AlexPullen91/Mambo/tree/mas
 * [Bootstrap](https://getbootstrap.com/) used for responsive mobile first design.
 * [Font Awesome](https://fontawesome.com/) for icons.
 * [Google Fonts](https://fonts.google.com/) used for fonts.
-* [Befunky](https://www.befunky.com/) to re-size background images.
-* [Tinypng](https://tinypng.com/) & [TinyJPG](https://tinyjpg.com/) used for compressing images.
+* [befunky](https://www.befunky.com/) to re-size background images.
+* [tinypng](https://tinypng.com/) & [tinyjpg](https://tinyjpg.com/) used for compressing images.
 * [favicon.io](https://favicon.io/) used to generate favicon.
-* [Coolers](https://coolors.co/) for colour schemes.
+* [coolers](https://coolors.co/) for colour schemes.
 * [Lighthouse](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk/related?hl=en) used to audit site.
 * [W3C Markup Validation](https://validator.w3.org/) used to validate HTML.
 * [W3C CSS validation](https://jigsaw.w3.org/css-validator/) used to validate CSS.
@@ -118,16 +120,30 @@ You can find my wireframes [here](https://github.com/AlexPullen91/Mambo/tree/mas
 
 ## Testing
 
-Throughtout development of this project Google Chrome developer tools was used to check the styling and layout of the page.
+Throughtout development of this project **Google Chrome developer tools** was used to check the styling and layout of the page.
 
 Particular care and attention was taken to ensure the page was responsive at all screen sizes by selecting the various device models and dragging the responsive window past breakpoints.
 
-This was an extremely useful tool and was instrumental in ensuring the page responded appropriately.
+This was an extremely useful tool and was instrumental in ensuring the page responded appropriately and especially so for troubelshooting layout issues.
 
-The site has been tested physically on iPhone 10 and 11, Google Pixel and the Galaxy S9.
+#### The following tools were also utilized in the testing of this project:
+* [W3C Markup Validation](https://validator.w3.org/) to validate HTML at various stages - besides one heading suggestion there are no other issues found.
+* [W3C CSS validation](https://jigsaw.w3.org/css-validator/) to validate CSS at various stages - currently no issues found.
+* [Lighthouse](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk/related?hl=en) used to audit site, taking particular note of image size and effects on loading times.
 
-* [W3C Markup Validation](https://validator.w3.org/) used to validate HTML at various stages - besides one heading suggestion there are no other issues found.
-* [W3C CSS validation](https://jigsaw.w3.org/css-validator/) used to validate CSS at various stages - currently no issues found.
+#### Internet browsers
+
+The same process of opening up the live page and meticulously clicking all links, buttons, and re-sizing of windows was utilized in the following browsers:
+
+* [Google Chrome](https://www.google.com/chrome/) - Main browser of choice for development.
+* [Microsoft Edge](https://www.microsoft.com/en-us/edge) - no issues encountered.
+* [Mozilla Firefox](https://www.mozilla.org/en-GB/firefox/new/) - Currently Mambo does not load correctly on firefox. Requires further investigation.
+* [Safari](https://www.apple.com/uk/safari/) - Currently the correct font is not loading on Safari. Requires further investigation.
+
+#### The site has been tested physically on a number of mobile devices including:
+* iPhone 7, 10 and 11
+* Google Pixel
+* Galaxy S9.
 
 ### Known Issues
 
@@ -179,6 +195,7 @@ All written text provided by myself and [Jacob Irlam-Hughes](https://www.linkedi
 * Modal snippet from bootstrap was used and adapted.
 * Form snippet from bootstrap was used and adapted.
 * [W3Schools](https://www.w3schools.com/) referred to numerous times throughout the project for reminders and recaps.
+* [Stack Overflow](https://stackoverflow.com/) for some minor troubleshooting.
 
 ### Acknowledgements
 
