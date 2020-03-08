@@ -13,20 +13,18 @@ Once the game is over the footage is prepared and edited to then be sent directl
 ---
 
 # Contents
-1. UX 
-2. Project Goals
-3. User Goals
-4. User Stories
-5. Site Owner Goals
-6. Design Choices
-7. Wireframes
-8. Features & Potential Future features
-9. Technologies & Languages
-10. Tools & Libraries
-11. Testing
-12. Issues and resolutions
-13. Deployment
-14. Credits
+1. [UX / Project Goals](#ux)
+2. [User Goals](#user-Goals)
+3. [User Stories](#user-stories)
+4. [Site Owner Goals](#site-owner-goals)
+5. [Design Choices](#design-choices)
+6. [Wireframes](#wireframes)
+7. [Features & Potential Future features](#features)
+8. [Technologies used](#languages)
+9. [Testing](#testing)
+10. [Issues and resolutions](#issues-&-resolutions)
+11. [Deployment](#deployment)
+12. [Credits](#credits)
 ---
 
 ## UX
@@ -110,22 +108,33 @@ You can find my wireframes [here](https://github.com/AlexPullen91/Mambo/tree/mas
 
 ---
 
-## Technologies & Languages
+## Languages
 
 * [HTML](https://en.wikipedia.org/wiki/HTML) to build the page.
 * [CSS](https://en.wikipedia.org/wiki/Cascading_Style_Sheets) to style the page.
 * [Javascript](https://www.javascript.com/) used in bootstrap features i.e collapsible navbar and modal button.
+
+---
+
+## Libraries
+
+* [Bootstrap](https://getbootstrap.com/) used for responsive mobile first design.
+* [Font Awesome](https://fontawesome.com/) for icons.
+* [Google Fonts](https://fonts.google.com/) used for fonts.
+
+---
+
+## Technologies 
+
 * [Github](https://github.com/) to host this project's respositories.
 * [Gitpod](https://www.gitpod.io/) IDE of choice for development.
 * [Git](https://git-scm.com/) for version control
 
 ---
 
-## Tools & Libraries
+## Tools
 
-* [Bootstrap](https://getbootstrap.com/) used for responsive mobile first design.
-* [Font Awesome](https://fontawesome.com/) for icons.
-* [Google Fonts](https://fonts.google.com/) used for fonts.
+* [Google Chrome developer tools](https://developers.google.com/web/tools/chrome-devtools) for testing and troubleshooting.
 * [befunky](https://www.befunky.com/) to re-size background images.
 * [tinypng](https://tinypng.com/) & [tinyjpg](https://tinyjpg.com/) used for compressing images.
 * [favicon.io](https://favicon.io/) used to generate favicon.
@@ -138,13 +147,14 @@ You can find my wireframes [here](https://github.com/AlexPullen91/Mambo/tree/mas
 
 ## Testing
 
-Throughout development of this project **Google Chrome developer tools** was used to check the styling and layout of the page.
+Throughout development of this project [Google Chrome developer tools](https://developers.google.com/web/tools/chrome-devtools) was used to check the styling and layout of the page.
 
 Particular care and attention was taken to ensure the page was responsive at all screen sizes by selecting the various device models and dragging the responsive window past breakpoints.
 
 This was an extremely useful tool and was instrumental in ensuring the page responded appropriately and especially so for troubelshooting layout issues.
 
 #### The following tools were also utilized in the testing of this project:
+
 * [W3C Markup Validation](https://validator.w3.org/) to validate HTML at various stages - besides one heading suggestion there are no other issues found.
 * [W3C CSS validation](https://jigsaw.w3.org/css-validator/) to validate CSS at various stages - currently no issues found.
 * [Lighthouse](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk/related?hl=en) used to audit site, taking particular note of image size and effects on loading times.
@@ -156,14 +166,14 @@ The same process of opening up the live page and meticulously clicking all links
 * [Google Chrome](https://www.google.com/chrome/) - Main browser of choice for development.
 * [Microsoft Edge](https://www.microsoft.com/en-us/edge) - no issues encountered. Everything works as intended.
 * [Mozilla Firefox](https://www.mozilla.org/en-GB/firefox/new/) - Currently no issues. Everything works as intended.
-* [Safari](https://www.apple.com/uk/safari/) - Currently no issues. All working as intended.
+* [Safari](https://www.apple.com/uk/safari/) - All working as intended besides smooth scrolling.
 
 #### The site has been tested physically on a number of mobile devices including:
-* iPhone 7, 10 and 11
+* iPhone 5, 7, 10 and 11
 * Google Pixel
 * Galaxy S9.
 
-### Issues and Resolutions
+### Issues & Resolutions
 
 * During development there was a problem with changing the color of my hamburger menu from the bootstrap nav bar snippet. Upon noticing that I was successfuly grabbing the other elements I examined this further in dev tools and realised that it was because it was actually a linked image. I removed this from the code and inserted a fully customizable font awesosme icon instead.
 * When reducing the screen size down to mobile it was noticed that my price lists were becoming too squashed and displaying incorrectly. This unwanted result was avoided by using media queries to reduce the font-size and letter spacing of the text.
@@ -171,6 +181,8 @@ The same process of opening up the live page and meticulously clicking all links
 
 ### Known Issues
 
+* Smooth scrolling on Safari is not yet supported.
+* When the hamburger menu is clicked it does not close itself once a navigation link is seleceted.
 * Video continues to play after modal window is closed. This is because it requires additional JavaScript that is not present in Bootstrap to automatically stop playback as stated [here](https://getbootstrap.com/docs/4.0/components/modal/). Needs testing.
 * Background images on physical iPhone not displaying correctly as they do in dev tools. According to [this](https://stackoverflow.com/questions/22141681/css-background-images-resizing-incorrectly-on-ipad-and-iphone?rq=1) Stack Overflow post the solution is to change
 ```background-attachment:fixed;```
@@ -185,7 +197,7 @@ Mambo was developed on GitPod, using git and GitHub to host the repository.
 
 __When deploying Mambo using GitHub Pages be sure to follow these steps:__
 
-1. Navigate to '/AlexPullen91/Mambo'.
+1. Navigate to '/AlexPullen91/Mambo' or alternatively click [here](https://github.com/AlexPullen91/Mambo).
 2. In the top navigation click on 'settings'.
 3. Scroll down to the GitHub Pages area.
 4. Select 'Master Branch' from the 'Source' dropdown menu.
@@ -194,7 +206,7 @@ __When deploying Mambo using GitHub Pages be sure to follow these steps:__
 
 __In order to run Mambo locally be sure to follow these steps whilst still on Github:__
 
-1. Navigate to '/AlexPullen91/Mambo'.
+1. Navigate to '/AlexPullen91/Mambo' or alternatively click [here](https://github.com/AlexPullen91/Mambo)..
 2. Click the green 'Clone or Download' button.
 3. Copy the url in the dropdown box.
 4. Using your IDE of choice open up your preferred terminal.
