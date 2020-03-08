@@ -1,5 +1,6 @@
 # Mambo 
 
+
 Mambo is a business idea that a friend of mine has come up with and it needs a website.
 
 Once it's fully set up it will be a hobbyist's **football filming service** based in Manchester, England.
@@ -22,7 +23,7 @@ Once the game is over the footage is prepared and edited to then be sent directl
 7. [Features & Potential Future features](#features)
 8. [Technologies used](#languages)
 9. [Testing](#testing)
-10. [Issues and resolutions](#issues-&-resolutions)
+10. [Issues and resolutions](#issues-and-resolutions)
 11. [Deployment](#deployment)
 12. [Credits](#credits)
 ---
@@ -173,7 +174,7 @@ The same process of opening up the live page and meticulously clicking all links
 * Google Pixel
 * Galaxy S9.
 
-### Issues & Resolutions
+### Issues and Resolutions
 
 * During development there was a problem with changing the color of my hamburger menu from the bootstrap nav bar snippet. Upon noticing that I was successfuly grabbing the other elements I examined this further in dev tools and realised that it was because it was actually a linked image. I removed this from the code and inserted a fully customizable font awesosme icon instead.
 * When reducing the screen size down to mobile it was noticed that my price lists were becoming too squashed and displaying incorrectly. This unwanted result was avoided by using media queries to reduce the font-size and letter spacing of the text.
