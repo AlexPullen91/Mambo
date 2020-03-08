@@ -1,7 +1,8 @@
 # Mambo 
 
+![Multi device Screenshot](https://github.com/AlexPullen91/Mambo/blob/master/wireframes/multi-device-screen-shot.jpg?raw=true)
 
-Mambo is a business idea that a friend of mine has come up with and it needs a website.
+Mambo is a business idea that a friend of mine has come up with and it needs a website. You can visit the site [here](https://alexpullen91.github.io/Mambo/).
 
 Once it's fully set up it will be a hobbyist's **football filming service** based in Manchester, England.
 
